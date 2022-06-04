@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TB2 Maps</string>
+    <string name="created_by_raychal">Created By Raychal Ababil Wiradiputra - 41519010159</string>
+    <string name="current_location">Lokasi Terkini Saya</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">TB2 Maps</string>
+</resources>
